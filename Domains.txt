@@ -1,0 +1,157 @@
+!
+! Title: OISD Blocklist Big
+! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
+! Homepage: https://oisd.nl/
+! Last modified: 2023-06-24T13:08:37.609Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: OISD Blocklist Big
+! Source: https://big.oisd.nl/
+!
+! Version: 202306241207
+! Description: Block. Don't break.
+! Title: oisd big
+! Last modified: 2023-06-24T12:07:11+0000
+! Expires: 1 days (update frequency)
+! Homepage: https://oisd.nl
+! Syntax: Adblock Plus Filter List    
+
+||pagead2.googlesyndication.com^
+||ads30.adcolony.com^
+||pagead2.googleadservices.com^
+||mediavisor.doubleclick.net^
+||afs.googlesyndication.com^
+||m.doubleclick.net^
+||cdn.luckyorange.com^
+||adservice.google.com^
+||ads.yahoo.com^
+||analytics.tiktok.com^
+||browser.sentry-cdn.com^
+||adc3-launch.adcolony.com^
+||business-api.tiktok.com^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||log.byteoversea.com^
+||extmaps-api.yandex.net^
+||adserver.unityads.unity3d.com^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||auction.unityads.unity3d.com^
+||iot-eu-logser.realme.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||api.ad.xiaomi.com^
+||analytics.s3.amazonaws.com^
+||offerwall.yandex.net^
+||gemini.yahoo.com^
+||globalapi.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||grs.hicloud.com^
+||logservice.hicloud.com^
+||logbak.hicloud.com^
+||iot-logser.realme.com^
+||adfox.yandex.ru^
+||smetrics.samsung.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||bdapi-in-ads.realmemobile.com^
+||analytics-api.samsunghealthcn.com^
+||open.oneplus.net^
+||samsung-com.112.2o7.net^
+||api.luckyorange.com^
+||nmetrics.samsung.com^
+||metrics.icloud.com^
+||adtech.yahooinc.com^
+||metrics.apple.com^
+||metrics.mzstatic.com^
+||stats.wp.com^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||stats.g.doubleclick.net^
+||analytics.yahoo.com^
+||tracking.rus.miui.com^
+||tr.iadsdk.apple.com^
+||iadsdk.apple.com^
+||advertising.yandex.ru^
+||bdapi-ads.realmemobile.com^
+||weather-analytics-events.apple.com^
+||data.ads.oppomobile.com^
+||books-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||api-adservices.apple.com^
+||ck.ads.oppomobile.com^
+||appmetrica.yandex.ru^
+||ads-sg.tiktok.com^
+||adx.ads.oppomobile.com^
+||ads.tiktok.com^
+||advertising.apple.com^
+||click.oneplus.cn^
+||adsfs.oppomobile.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||adservetx.media.net^
+||media.net^
+||analytics.google.com^
+||click.googleanalytics.com^
+||ssl.google-analytics.com^
+||static.media.net^
+||app-measurement.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
+||freshmarketer.com^
+||events.hotjar.io^
+||google-analytics.com^
+||analytics-sg.tiktok.com^
+||geo.yahoo.com^
+||advertising.yahoo.com^
+||samsungads.com^
+||logservice1.hicloud.com^
+||identify.hotjar.com^
+||mouseflow.com^
+||tools.mouseflow.com^
+||luckyorange.com^
+||api.mouseflow.com^
+||careers.hotjar.com^
+||surveys.hotjar.com^
+||log.fc.yahoo.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||analytics.query.yahoo.com^
+||realtime.luckyorange.com^
+||partnerads.ysm.yahoo.com^
+||analytics.pinterest.com^
+||fwtracks.freshmarketer.com^
+||adm.hotjar.com^
+||insights.hotjar.com^
+||script.hotjar.com^
+||cdn-test.mouseflow.com^
+||claritybt.freshmarketer.com^
+||w1.luckyorange.com^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||app.getsentry.com^
+||pixel.facebook.com^
+||an.facebook.com^
+||static.ads-twitter.com^
+||ads-api.twitter.com^
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+||ads.pinterest.com^
+||log.pinterest.com^
+||trk.pinterest.com^
+||widgets.pinterest.com^
+||events.reddit.com^
+||events.redditmedia.com^
+||ads.youtube.com^
+||ads-api.tiktok.com^
